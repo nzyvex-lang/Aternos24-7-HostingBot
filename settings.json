@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip":zygismp.aternos.me
+    "port": 59086
     "version": "",
     "try-creative": false
   },
